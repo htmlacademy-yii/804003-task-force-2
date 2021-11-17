@@ -1,5 +1,5 @@
 <?php
-namespace taskForce\main;
+namespace app\models;
 
 class Task
 {

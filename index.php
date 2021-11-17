@@ -1,5 +1,5 @@
 <?php
-use taskForce\main\Task;
+use app\models\Task;
 require_once('vendor/autoload.php');
 
 $task = new Task(25, 44, "status_inwork");
